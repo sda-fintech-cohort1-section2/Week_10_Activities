@@ -1,6 +1,6 @@
 # Some Suggested first contracts
 
-## 1. Deploy an empty contract"
+## 1. Deploy an empty contract
 
 ## 2. Deploy a hello world contract:
    hint for writing functions
