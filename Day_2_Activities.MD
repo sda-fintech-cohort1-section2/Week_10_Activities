@@ -11,6 +11,6 @@
    }
   
   
-## 3. Deploy a function that has recieve()
+## 3. Deploy a function that has receive()
 
-## 4. Deploy a function that has recieve() and a function that sends to an address provided as a parameter.
+## 4. Deploy a function that has receive() and a function that sends to an address provided as a parameter.
